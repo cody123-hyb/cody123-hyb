@@ -1,7 +1,6 @@
-print(""
-Personal Transaction
-  1.Add Transaction
-  2.Edit Transaction
-  3.Delete Transaction
-  4.View Summary
-  5.Save and Exit)
+sum = 0
+i = 1
+while i <= 10:
+    sum += i
+    i += 1
+print(sum)
